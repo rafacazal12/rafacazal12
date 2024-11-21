@@ -1,5 +1,5 @@
-
-## Hi there! 👋 My name is Rafaela, but you can call me just Rafa
+# Rafaela Cazal
+ Hi there! 👋 My name is Rafaela Cazal, but you can call me just Rafa 😊
 
 ### `whoami` ?
 
@@ -9,7 +9,7 @@ My journey in coding started more than 4 years ago and since then, I've been dee
 ### What do I do?
 
 - 💻 **Coding**: I love writing clean and efficient code and in my career I've worked with languages such as C#, Java, Node.js and Python, but I'm always ready to learn new technologies.
-- 🛠 **Skills**: : I'm experienced in .Net, SpringBoot, AWS, CI/CD, and I'm constantly working to improve and expand my skill set.
+- 🛠 **Skills**: : I'm experienced in .Net, SpringBoot, Amazon Cloud Certified, CI/CD, and I'm constantly working to improve and expand my skill set.
 
 ### Interests and Hobbies
 
